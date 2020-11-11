@@ -10,11 +10,11 @@ h1 {
 h2 {
   color: green;
   font-weight: normal;
-  font-size: : 12px;
+  font-style: italic;
 }
 
 .completed {
-  font-family: Arial;
+  font-size: 12px;
 }
 
 #tasks .completed {
